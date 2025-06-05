@@ -1,0 +1,4 @@
+aiogram~=3.0.0          # библиотека для создания Telegram-ботов (версия 3.x)
+SQLAlchemy>=2.0.0       # ORM для работы с БД
+asyncpg                 # драйвер PostgreSQL для асинхронной работы (если PostgreSQL)
+python-dotenv           # для загрузки .env-конфигураций
